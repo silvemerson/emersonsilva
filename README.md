@@ -2,7 +2,8 @@
 
 Meu nome é Emerson Silva e sou entusiasta DevOps e Open Source. 😎
 
-Atualmente trabalho como DevOps Engineer e instrutor
+Atualmente trabalho como DevOps Engineer e instrutor.
+
 Sempre que possível, eu compartilho conhecimento por aqui, pelo meu Blog ou no Youtube. Pois é uma forma de contruibuir um pouco com o tanto que a comunidade me ajudou nessa caminhada.
 
 
